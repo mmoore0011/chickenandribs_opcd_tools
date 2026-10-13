@@ -16,8 +16,10 @@ conventions used across all of these repos.
 |---|---|
 | [MovingVehicles](https://github.com/mmoore0011/chickenandribs_movingvehicles) | Move vehicles (or any other kind of prefab) on a path through your scene |
 | [meshgapdetector](https://github.com/mmoore0011/chickenandribs_meshgapdetector) | Find and fix your mesh gaps in Blender |
-| [SkyDome](https://github.com/mmoore0011/chickenandribs_skydome) | Create a Truman-show style sky dome around your scene |
+| [SkyDome](https://github.com/mmoore0011/chickenandribs_skydome) | Create a 'Truman Show' style sky dome around your scene |
 | [PanoramaCylinder](https://github.com/mmoore0011/chickenandribs_panorama_cylinder) | Take some of the manual work out of pano cylinder creation |
+| [BirdFlock](https://github.com/mmoore0011/chickenandribs_birdflock) | Move bird flocks (built-in or your own animated prefabs) along waypoints through your scene |
+| [VideoAnimations](https://github.com/mmoore0011/chickenandribs_videoanimations) | Turn a Blender render into a looping video, then show it as a world-space quad or a full-screen intro overlay |
 
 More tools are in active development and get added here once they're
 ready for general use.
