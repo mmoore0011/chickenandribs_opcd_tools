@@ -20,6 +20,8 @@ conventions used across all of these repos.
 | [PanoramaCylinder](https://github.com/mmoore0011/chickenandribs_panorama_cylinder) | Take some of the manual work out of pano cylinder creation |
 | [BirdFlock](https://github.com/mmoore0011/chickenandribs_birdflock) | Move bird flocks (built-in or your own animated prefabs) along waypoints through your scene |
 | [VideoAnimations](https://github.com/mmoore0011/chickenandribs_videoanimations) | Turn a Blender render into a looping video, then show it as a world-space quad or a full-screen intro overlay |
+| [TextureCreator](https://github.com/mmoore0011/chickenandribs_texture_creator) | Automate the OPCD MAHS texture pipeline — pack, expand the arrays, and build a ready-to-use material in one click |
+| [RockScatter](https://github.com/mmoore0011/chickenandribs_rock_scatter) | Click or click-drag to scatter rock prefabs across any surface, oriented to the terrain |
 
 More tools are in active development and get added here once they're
 ready for general use.
