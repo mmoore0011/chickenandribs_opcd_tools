@@ -1,5 +1,7 @@
 # chickenandribs OPCD Tools
 
+![chickenandribs OPCD Tools](splash.png)
+
 Unity and Blender tools for building golf courses with
 [OPCD](https://zerosandonesgcd.com/) (Open Platform Course Design) for
 GSPro. Each tool lives in its own repository, linked below.
