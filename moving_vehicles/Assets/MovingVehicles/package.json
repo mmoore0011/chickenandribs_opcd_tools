@@ -1,0 +1,11 @@
+{
+    "name": "com.opcd.moving-vehicles",
+    "version": "1.1.0",
+    "displayName": "Moving Vehicles",
+    "description": "Low-poly background traffic system. Procedurally builds five vehicle types (sedan, hatchback, pickup truck, tractor/trailer, BBQ food truck) and drives them along a configurable waypoint path. Supports custom prefab vehicles and optional 3D audio. Vehicles spawn off-screen, travel across the scene, and despawn off-screen. No external assets required.",
+    "unity": "2018.2",
+    "keywords": ["vehicles", "traffic", "background", "low-poly"],
+    "author": {
+        "name": "OPCD"
+    }
+}

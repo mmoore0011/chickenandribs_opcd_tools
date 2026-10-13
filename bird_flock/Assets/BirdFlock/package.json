@@ -1,0 +1,11 @@
+{
+    "name": "com.chickenandribs.bird-flock",
+    "version": "1.0.0",
+    "displayName": "Bird Flock",
+    "description": "Procedurally generated bird flocks that fly along a configurable waypoint path. Supports V formation with natural asymmetry and stragglers. Flocks spawn off-screen and despawn off-screen at configurable intervals (1 minute to 1 hour). No external assets required.",
+    "unity": "2018.2",
+    "keywords": ["birds", "flock", "background", "low-poly", "nature"],
+    "author": {
+        "name": "chickenandribs"
+    }
+}

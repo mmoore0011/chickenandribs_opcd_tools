@@ -1,0 +1,34 @@
+# Built Unity packages — these are build output (see make_unity_pkg.ps1),
+# not source. Distributed via GitHub Releases, not tracked in git.
+*.unitypackage
+
+# Per-tool dev memory notes — internal working notes, not for the public repo.
+**/MEMORY.md
+
+# Blender backup files
+*.blend1
+*.blend2
+*.blend3
+
+# OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor/IDE
+.vs/
+*.user
+
+# Claude Code local settings — personal filesystem paths, not for the public repo
+.claude/
+
+# Redundant zip duplicate of SkyDome/ folder contents
+SkyDome.zip
+
+# meshgapdetector: old version-numbered folders (superseded now that git
+# itself tracks version history) and anything marked DO NOT USE — kept on
+# disk locally, never tracked in the public repo.
+meshgapdetector/0.5.0/
+meshgapdetector/0.5.7/
+meshgapdetector/0.6/
+meshgapdetector/0.7 (DO NOT USE)/

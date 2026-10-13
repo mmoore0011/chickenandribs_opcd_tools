@@ -1,0 +1,11 @@
+{
+    "name": "com.opcd.wire-maker",
+    "version": "1.0.0",
+    "displayName": "Wire Maker",
+    "description": "Editor tool for placing power-line wires between pole attachment points.  Assign top-of-pole transforms, set sag amount, and click Build Wires — the tool generates black cylinder segments that approximate a parabolic catenary curve between each pair of points.  No runtime code; results are static scene geometry.",
+    "unity": "2018.2",
+    "keywords": ["power lines", "wires", "environment", "props"],
+    "author": {
+        "name": "OPCD"
+    }
+}
